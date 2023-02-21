@@ -1,0 +1,63 @@
+nav{
+    background-color: rgb(47, 134, 248);
+    height: 75px;
+}
+img{
+    margin-top: 15px;
+}
+body{
+    margin: 0px;
+}
+h1{
+    font-family:  sans-serif;
+}
+p{
+    font-family:  sans-serif;
+    margin-bottom: 0px;
+}
+#destaque{
+    text-align: center;
+    
+    }
+#formulario{
+    background-color: rgb(223, 217, 217);
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    width: 400px;
+    margin: 0 auto;
+    height: 210px;
+}
+input{
+    width: auto;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: auto;
+    background-color: rgb(47, 134, 248);
+    color: white;
+}
+video{
+    margin-bottom: 0px;
+}
+#botao{
+    font-family: bold;
+    background-color: rgb(70, 43, 226);
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+#botao:hover{
+    background-color: rgb(84, 60, 223);
+    cursor: pointer;
+}
+#texto{
+    background-color: white;
+    
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    width: 700px;
+    margin: 0 auto;
+}
